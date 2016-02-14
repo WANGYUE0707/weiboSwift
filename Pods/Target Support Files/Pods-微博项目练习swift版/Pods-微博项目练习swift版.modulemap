@@ -1,0 +1,6 @@
+framework module Pods_______swift_ {
+  umbrella header "Pods-微博项目练习swift版-umbrella.h"
+
+  export *
+  module * { export * }
+}

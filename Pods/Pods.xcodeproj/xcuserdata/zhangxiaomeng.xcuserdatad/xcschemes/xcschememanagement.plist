@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Alamofire.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Kingfisher.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>MJExtension.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Pods-微博项目练习swift版.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>9788AB1AF635F5B7FFE0819DC2AFD24C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A02DFB23E5ED387EF66BCE04D11CA0A5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CA50463441502C5BB73084F7E32C72C3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DF52190B4F1B1629C26AE265BC0E1430</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
